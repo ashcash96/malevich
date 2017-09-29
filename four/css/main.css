@@ -1,0 +1,82 @@
+body, html {width:9000px;
+}
+
+#container {
+    position: absolute;
+    top: 200px;
+    left: 200px;
+}
+
+#containerone {
+    position: fixed;
+    top: 200px;
+    left: 200px;
+
+}
+
+#box1 {
+     position: relative;
+    height:300px;
+      width:300px;
+      background-color:#2d2d30;
+    transform: rotate(45deg);
+    z-index: 1;
+    float: left;
+        }  
+
+
+#box2 {
+     position: absolute;
+    height:300px;
+      width:300px;
+      background-color:#2d2d30;
+    transform: rotate(45deg);
+    z-index: 1;
+    float: left;
+    left: 424.3px;
+        }  
+
+#box3 {
+     position: absolute;
+    height:300px;
+      width:300px;
+      background-color:#2d2d30;
+    transform: rotate(45deg);
+    z-index: 1;
+    float: left;
+    left: 848.6px;
+        }  
+
+#box4{
+    position: absolute;
+    height:300px;
+      width:300px;
+      background-color:#000000;
+    transform: rotate(45deg);
+    
+}
+#box5{
+    position: absolute;
+    height:300px;
+      width:300px;
+      background-color:#000000;
+    transform: rotate(45deg);
+        left: 424.3px;
+    
+}
+
+#box6{
+    position: absolute;
+    height:300px;
+      width:300px;
+      background-color:#000000;
+    transform: rotate(45deg);
+     left:848.6px;
+    
+}
+
+
+    
+  
+
+    
